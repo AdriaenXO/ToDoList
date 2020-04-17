@@ -1,4 +1,8 @@
-# vue_tutorial
+# ToDoList
+
+My first project in Vue.
+
+Live version can be found [here](https://adriaenxo.github.io/ToDoList/).
 
 ## Project setup
 ```
